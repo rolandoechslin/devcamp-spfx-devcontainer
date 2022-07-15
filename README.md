@@ -5,9 +5,11 @@
 
 a devcontainer template to start to develop your SPFx projects using GitHub Codespaces
 
+Thanks to Emanuele Bartolesi, see original https://github.com/kasuken/SPFxGitHubDevContainer
+
 ## Features
 
-- Latest version of SPFx (1.14)
+- Latest version of SPFx (1.15.0)
 - Post command to configure the environment (npm install & dev certificates)
 - SPFx Essential Pack extensions for VS Code
 
@@ -26,12 +28,6 @@ It means you can click on the button "Use this template" at the top of the page 
 Contributions are always welcome!
 
 Fork the project and enjoy.
-
-
-## Support
-
-For support, add an issue directly in this repository: https://github.com/kasuken/SPFxGitHubDevContainer/issues/new
-
 
 ## License
 
