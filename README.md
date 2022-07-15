@@ -7,6 +7,10 @@ a devcontainer template to start to develop your SPFx projects using GitHub Code
 
 Many Thanks to Emanuele Bartolesi, see original https://github.com/kasuken/SPFxGitHubDevContainer and instruction video https://www.youtube.com/watch?v=_EVoYKOOM_g
 
+## Info
+
+- [SPFx: Opening a sample using a development container](https://github.com/pnp/sp-dev-fx-webparts/wiki/Opening-a-sample-using-a-development-container)
+
 ## Features
 
 - Latest version of SPFx (1.15.0)
